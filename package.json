@@ -1,0 +1,24 @@
+{
+  "name": "scrapper-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickFDiaz/scrapper-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErickFDiaz/scrapper-node/issues"
+  },
+  "homepage": "https://github.com/ErickFDiaz/scrapper-node#readme",
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "puppeteer": "^15.5.0",
+    "random-useragent": "^0.5.0"
+  }
+}
